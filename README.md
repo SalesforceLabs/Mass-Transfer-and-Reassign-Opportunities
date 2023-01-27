@@ -1,4 +1,4 @@
-# Mass-Transfer-and-Reassign-Activities
+# Mass-Transfer-and-Reassign-Opportunities
 
 Do you have a very dynamic org and often need to reassign opportunities from one rep. to another? This app will help you search and reassign multiple opportunities, matching certain criteria or even your own views easily.
 
